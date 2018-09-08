@@ -6,3 +6,7 @@ int main()
     printf("Hello, World!\n");   // displays Hello, World! on the screen
     return 0;
 }
+
+
+int main() {
+}
